@@ -9,5 +9,5 @@
 
  Show the output bellow:
  <div align="top_right">
- <img src="https://user-images.githubusercontent.com/92998253/161364438-87669f16-1433-4f63-a6b4-be90341c70fe.png" width="" />
+ <img src="https://user-images.githubusercontent.com/92998253/161364438-87669f16-1433-4f63-a6b4-be90341c70fe.png" width="1080px" />
  </div>
